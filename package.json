@@ -1,5 +1,5 @@
 {
-  "name": "slugg",
+  "name": "@hitch/slugg",
   "version": "1.0.0",
   "description": "Make strings url safe (with no dependencies)",
   "publishConfig": {
